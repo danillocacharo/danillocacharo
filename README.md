@@ -17,7 +17,7 @@ Working with technology since the age of 15
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nestjs](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nestjs](https://img.shields.io/badge/nestjs-FF0000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-9F468F?style=for-the-badge&logo=php&logoColor=white)
 ![Graphql](https://img.shields.io/badge/Graphql-02569B?style=for-the-badge&logo=graphql&logoColor=white)
